@@ -57,9 +57,18 @@ http://drupal.org/node/1082382   <--  TortoiseGit Setup Graphics
 
 http://candidcode.com/2010/01/12/a-guide-to-converting-from-mercurial-hg-to-git-on-a-windows-client/
 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
+Contest rules:  What devices must I use with my project?
 
+       Answer:  A Microchip's chipKIT™ Max32™ development board,
+                DesignSpark's PCB tools and 
+                Microchip's MPLAB® IDE software 
+                must be used.
 
+Apparently a strict reading of the rules will not allow MPLAB X to be used.
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 
 
